@@ -1,0 +1,6 @@
+{
+  "name": "Wiz Connect · Placa Google NFC & QR Code",
+  "description": "Landing page interativa para clientes ativarem sua Placa Google Avaliações com NFC e QR Code Dinâmico, e estúdio automatizado para geração de material gráfico para impressão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
